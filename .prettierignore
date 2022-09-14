@@ -1,0 +1,10 @@
+**/*.svg
+LICENSE
+pnpm.lock
+.gitignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+.png
+

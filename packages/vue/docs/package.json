@@ -1,0 +1,17 @@
+{
+  "name": "@angel-vue/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev . --watch",
+    "build": "vitepress build ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^3.1.0",
+    "vitepress": "1.0.0-alpha.13"
+  }
+}
